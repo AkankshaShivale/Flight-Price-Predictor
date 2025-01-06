@@ -18,10 +18,10 @@ A Flask-based web application that predicts flight ticket prices using a machine
 1. Clone the repository:
    ```bash
    git clone https://github.com/AkankshaShivale/Flight-Price-Predictor.git
-   cd flight-price-predictor```
+   cd flight-price-predictor
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 ---
 
